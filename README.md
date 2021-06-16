@@ -2,7 +2,7 @@
 
 <img src="cat2.jpg" width="200">
 
-<a href="https://ye-zun.github.io/first/1.html">운석이는 이걸 누르시오</a><br><a href="https://www.fmkorea.com/1713887805">귀여운 고양이</a>
+<a href="https://ye-zun.github.io/first/1.html">?</a><br><a href="https://www.fmkorea.com/1713887805">귀여운 고양이</a>
 
 <div id="disqus_thread"></div>
 <script>
