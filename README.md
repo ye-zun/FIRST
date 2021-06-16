@@ -2,8 +2,6 @@
 
 <img src="cat2.jpg" width="200">
 
-<a href="https://ye-zun.github.io/first/1.html">?</a><br><a href="https://www.fmkorea.com/1713887805">귀여운 고양이</a>
-
 <div id="disqus_thread"></div>
 <script>
     (function() { // DON'T EDIT BELOW THIS LINE
